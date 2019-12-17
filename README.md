@@ -3,7 +3,6 @@
 <p>It is an app to simulate two dices on IOS platform.
 
 ## Demo
-
-![](https://i.imgur.com/OsoDfkT.gif)
+<img src="https://i.imgur.com/OsoDfkT.gif" alt="drawing" width="200"/>
 
 
