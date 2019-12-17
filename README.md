@@ -4,6 +4,6 @@
 
 ## Demo
 
-![](https://i.imgur.com/OsoDfkT.gif =400x)
+![](https://i.imgur.com/OsoDfkT.gif)
 
 
